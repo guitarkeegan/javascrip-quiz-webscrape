@@ -20,5 +20,16 @@ import re
 # with open("quiz_questions.txt", "w") as questions_raw:
 #     questions_raw.write(str(ordered_lists))
 
+with open("quiz_questions.txt", "r") as questions_raw:
+    qw = questions_raw.read()
+
+
+rm_p_tags = qw.replace("<p>", "{")
+rm_p_close_tags = rm_p_tags.replace("</p>", "")
+rm_br_tags = rm_p_close_tags.replace(r"<br/>", "")
+rm_newlines = rm_br_tags.replace("\n", " \n")
+rm_fbracket = rm_newlines.replace("[", "")
+rm_bbracket = rm_fbracket.replace("]", "")
+pprint(rm_bbracket)
 
 
