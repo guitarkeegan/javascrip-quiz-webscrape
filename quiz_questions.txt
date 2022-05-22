@@ -1,0 +1,278 @@
+[<p>When a user views a page containing a JavaScript program, which machine actually executes the script?<br/>
+A. The User’s machine running a Web browser<br/>
+B. The Web server<br/>
+C. A central machine deep within Netscape’s corporate offices<br/>
+D. None of the above<br/>
+Ans: A</p>, <p>______ JavaScript is also called client-side JavaScript.<br/>
+A. Microsoft<br/>
+B. Navigator<br/>
+C. LiveWire<br/>
+D. Native<br/>
+Ans: B</p>, <p>__________ JavaScript is also called server-side JavaScript.<br/>
+A. Microsoft<br/>
+B. Navigator<br/>
+C. LiveWire<br/>
+D. Native<br/>
+Ans: C</p>, <p>What are variables used for in JavaScript Programs?<br/>
+A. Storing numbers, dates, or other values<br/>
+B. Varying randomly<br/>
+C. Causing high-school algebra flashbacks<br/>
+D. None of the above<br/>
+Ans: A</p>, <p>_____ JavaScript statements embedded in an HTML page can respond to user events such as mouse-clicks, form input, and page navigation.<br/>
+A. Client-side<br/>
+B. Server-side<br/>
+C. Local<br/>
+D. Native<br/>
+Ans: A</p>, <p>What should appear at the very end of your JavaScript?<br/>
+The &lt;script LANGUAGE=”JavaScript”&gt;tag<br/>
+A. The &lt;/script&gt;<br/>
+B. The &lt;script&gt;<br/>
+C. The END statement<br/>
+D. None of the above<br/>
+Ans: A</p>, <p>Which of the following can’t be done with client-side JavaScript?<br/>
+A. Validating a form<br/>
+B. Sending a form’s contents by email<br/>
+C. Storing the form’s contents to a database file on the server<br/>
+D. None of the above<br/>
+Ans: C</p>, <p>Which of the following are capabilities of functions in JavaScript?<br/>
+A. Return a value<br/>
+B. Accept parameters and Return a value<br/>
+C. Accept parameters<br/>
+D. None of the above<br/>
+Ans: C</p>, <p>Which of the following is not a valid JavaScript variable name?<br/>
+A. 2names<br/>
+B. _first_and_last_names<br/>
+C. FirstAndLast<br/>
+D. None of the above<br/>
+Ans: A</p>, <p>______ tag is an extension to HTML that can enclose any number of JavaScript statements.<br/>
+A. &lt;SCRIPT&gt;<br/>
+B. &lt;BODY&gt;<br/>
+C. &lt;HEAD&gt;<br/>
+D. &lt;TITLE&gt;<br/>
+Ans: A</p>, <p>How does JavaScript store dates in a date object?<br/>
+A. The number of milliseconds since January 1st, 1970<br/>
+B. The number of days since January 1st, 1900<br/>
+C. The number of seconds since Netscape’s public stock offering.<br/>
+D. None of the above<br/>
+Ans: A</p>, <p>Which of the following attribute can hold the JavaScript version?<br/>
+A. LANGUAGE<br/>
+B. SCRIPT<br/>
+C. VERSION<br/>
+D. None of the above<br/>
+Ans: A</p>, <p>What is the correct JavaScript syntax to write “Hello World”?<br/>
+A. System.out.println(“Hello World”)<br/>
+B. println (“Hello World”)<br/>
+C. document.write(“Hello World”)<br/>
+D. response.write(“Hello World”)<br/>
+Ans: C</p>, <p>Which of the following way can be used to indicate the LANGUAGE attribute?<br/>
+A. &lt;LANGUAGE=”JavaScriptVersion”&gt;<br/>
+B. &lt;SCRIPT LANGUAGE=”JavaScriptVersion”&gt;<br/>
+C. &lt;SCRIPT LANGUAGE=”JavaScriptVersion”&gt; JavaScript statements…&lt;/SCRIPT&gt;<br/>
+D. &lt;SCRIPT LANGUAGE=”JavaScriptVersion”!&gt; JavaScript statements…&lt;/SCRIPT&gt;<br/>
+Ans: C</p>, <p>Inside which HTML element do we put the JavaScript?<br/>
+A. &lt;js&gt;<br/>
+B. &lt;scripting&gt;<br/>
+C. &lt;script&gt;<br/>
+D. &lt;javascript&gt;<br/>
+Ans: C</p>, <p>What is the correct syntax for referring to an external script called ” abc.js”?<br/>
+A. &lt;script href=” abc.js”&gt;<br/>
+B. &lt;script name=” abc.js”&gt;<br/>
+C. &lt;script src=” abc.js”&gt;<br/>
+D. None of the above<br/>
+Ans: C</p>, <p>Which types of image maps can be used with JavaScript?<br/>
+A. Server-side image maps<br/>
+B. Client-side image maps<br/>
+C. Server-side image maps and Client-side image maps<br/>
+D. None of the above<br/>
+Ans: B</p>, <p>Which of the following navigator object properties is the same in both Netscape and IE?<br/>
+A. navigator.appCodeName<br/>
+B. navigator.appName<br/>
+C. navigator.appVersion<br/>
+D. None of the above<br/>
+Ans: A</p>, <p>Which is the correct way to write a JavaScript array?<br/>
+A. var txt = new Array(1:”tim”,2:”kim”,3:”jim”)<br/>
+B. var txt = new Array:1=(“tim”)2=(“kim”)3=(“jim”)<br/>
+C. var txt = new Array(“tim”,”kim”,”jim”)<br/>
+D. var txt = new Array=”tim”,”kim”,”jim”<br/>
+Ans: C</p>, <p>What does the &lt;noscript&gt; tag do?<br/>
+A. Enclose text to be displayed by non-JavaScript browsers.<br/>
+B. Prevents scripts on the page from executing.<br/>
+C. Describes certain low-budget movies.<br/>
+D. None of the above<br/>
+Ans: A</p>, <p>If para1 is the DOM object for a paragraph, what is the correct syntax to change the text within the paragraph?<br/>
+A. “New Text”?<br/>
+B. para1.value=”New Text”;<br/>
+C. para1.firstChild.nodeValue= “New Text”;<br/>
+D. para1.nodeValue=”New Text”;<br/>
+Ans: B</p>, <p>JavaScript entities start with _______ and end with _________.<br/>
+A. Semicolon, colon<br/>
+B. Semicolon, Ampersand<br/>
+C. Ampersand, colon<br/>
+D. Ampersand, semicolon<br/>
+Ans: D</p>, <p>Which of the following best describes JavaScript?<br/>
+A. a low-level programming language.<br/>
+B. a scripting language precompiled in the browser.<br/>
+C. a compiled scripting language.<br/>
+D. an object-oriented scripting language.<br/>
+Ans: D</p>, <p>Choose the server-side JavaScript object?<br/>
+A. FileUpLoad<br/>
+B. Function<br/>
+C. File<br/>
+D. Date<br/>
+Ans: C</p>, <p>Choose the client-side JavaScript object?<br/>
+A. Database<br/>
+B. Cursor<br/>
+C. Client<br/>
+D. FileUpLoad<br/>
+Ans: D</p>, <p>Which of the following is not considered a JavaScript operator?<br/>
+A. new<br/>
+B. this<br/>
+C. delete<br/>
+D. typeof<br/>
+Ans: B</p>, <p>______method evaluates a string of JavaScript code in the context of the specified object.<br/>
+A. Eval<br/>
+B. ParseInt<br/>
+C. ParseFloat<br/>
+D. Efloat<br/>
+Ans: A</p>, <p>Which of the following event fires when the form element loses the focus: &lt;button&gt;, &lt;input&gt;, &lt;label&gt;, &lt;select&gt;, &lt;textarea&gt;?<br/>
+A. onfocus<br/>
+B. onblur<br/>
+C. onclick<br/>
+D. ondblclick<br/>
+Ans: B</p>, <p>The syntax of Eval is ________________<br/>
+A. [objectName.]eval(numeriC.<br/>
+B. [objectName.]eval(string)<br/>
+C. [EvalName.]eval(string)<br/>
+D. [EvalName.]eval(numeriC.<br/>
+Ans: B</p>, <p>JavaScript is interpreted by _________<br/>
+A. Client<br/>
+B. Server<br/>
+C. Object<br/>
+D. None of the above<br/>
+Ans: A</p>, <p>Using _______ statement is how you test for a specific condition.<br/>
+A. Select<br/>
+B. If<br/>
+C. Switch<br/>
+D. For<br/>
+Ans: B</p>, <p>Which of the following is the structure of an if statement?<br/>
+A. if (conditional expression is true) thenexecute this codeend if<br/>
+B. if (conditional expression is true)execute this codeend if<br/>
+C. if (conditional expression is true) {then execute this code&gt;-&gt;}<br/>
+D. if (conditional expression is true) then {execute this code}<br/>
+Ans: C</p>, <p>How to create a Date object in JavaScript?<br/>
+A. dateObjectName = new Date([parameters])<br/>
+B. dateObjectName.new Date([parameters])<br/>
+C. dateObjectName := new Date([parameters])<br/>
+D. dateObjectName Date([parameters])<br/>
+Ans: A</p>, <p>The _______ method of an Array object adds and/or removes elements from an array.<br/>
+A. Reverse<br/>
+B. Shift<br/>
+C. Slice<br/>
+D. Splice<br/>
+Ans: D</p>, <p>To set up the window to capture all Click events, we use which of the following statement?<br/>
+A. window.captureEvents(Event.CLICK);<br/>
+B. window.handleEvents (Event.CLICK);<br/>
+C. window.routeEvents(Event.CLICK );<br/>
+D. window.raiseEvents(Event.CLICK );<br/>
+Ans: A</p>, <p>Which tag(s) can handle mouse events in Netscape?<br/>
+A. &lt;IMG&gt;<br/>
+B. &lt;A&gt;<br/>
+C. &lt;BR&gt;<br/>
+D. None of the above<br/>
+Ans: B</p>, <p>____________ is the tainted property of a window object.<br/>
+A. Pathname<br/>
+B. Protocol<br/>
+C. Defaultstatus<br/>
+D. Host<br/>
+Ans: C</p>, <p>To enable data tainting, the end user sets the _________ environment variable.<br/>
+A. ENABLE_TAINT<br/>
+B. MS_ENABLE_TAINT<br/>
+C. NS_ENABLE_TAINT<br/>
+D. ENABLE_TAINT_NS<br/>
+Ans: C</p>, <p>In JavaScript, _________ is an object of the target language data type that encloses an object of the source language.<br/>
+A. a wrapper<br/>
+B. a link<br/>
+C. a cursor<br/>
+D. a form<br/>
+Ans: A</p>, <p>When a JavaScript object is sent to Java, the runtime engine creates a Java wrapper of type ___________<br/>
+A. ScriptObject<br/>
+B. JSObject<br/>
+C. JavaObject<br/>
+D. Jobject<br/>
+Ans: B</p>, <p>_______ class provides an interface for invoking JavaScript methods and examining JavaScript properties.<br/>
+A. ScriptObject<br/>
+B. JSObject<br/>
+C. JavaObject<br/>
+D. Jobject<br/>
+Ans: B</p>, <p>_________ is a wrapped Java array, accessed from within JavaScript code.<br/>
+A. JavaArray<br/>
+B. JavaClass<br/>
+C. JavaObject<br/>
+D. JavaPackage<br/>
+Ans: A</p>, <p>A ________ object is a reference to one of the classes in a Java package, such as netscape.javascript .<br/>
+A. JavaArray<br/>
+B. JavaClass<br/>
+C. JavaObject<br/>
+D. JavaPackage<br/>
+Ans: B</p>, <p>The JavaScript exception is available to the Java code as an instance of __________<br/>
+A. netscape.javascript.JSObject<br/>
+B. netscape.javascript.JSException<br/>
+C. netscape.plugin.JSException<br/>
+D. None of the above<br/>
+Ans: B</p>, <p>To automatically open the console when a JavaScript error occurs which of the following is added to prefs.js?<br/>
+A. user_pref(” javascript.console.open_on_error”, false);<br/>
+B. user_pref(“javascript.console.open_error “, true);<br/>
+C. user_pref(“javascript.console.open_error “, false);<br/>
+D. user_pref(“javascript.console.open_on_error”, true);<br/>
+Ans: D</p>, <p>To open a dialog box each time an error occurs, which of the following is added to prefs.js?<br/>
+A. user_pref(“javascript.classic.error_alerts”, true);<br/>
+B. user_pref(“javascript.classic.error_alerts “, false);<br/>
+C. user_pref(“javascript.console.open_on_error “, true);<br/>
+D. user_pref(“javascript.console.open_on_error “, false);<br/>
+Ans: A</p>, <p>The syntax of a blur method in a button object is ______________<br/>
+A. Blur()<br/>
+B. Blur(contrast)<br/>
+C. Blur(value)<br/>
+D. Blur(depth)<br/>
+Ans: A</p>, <p>The syntax of capture events method for document object is ______________<br/>
+A. captureEvents()<br/>
+B. captureEvents(args eventType)<br/>
+C. captureEvents(eventType)<br/>
+D. captureEvents(eventVal)<br/>
+Ans: C</p>, <p>The syntax of close method for document object is ______________<br/>
+A. Close(doC.<br/>
+B. Close(object)<br/>
+C. Close(val)<br/>
+D. Close()<br/>
+Ans: D</p>, <p>&lt;script type=”text/javascript”&gt;<br/>
+x=4+”4″;<br/>
+document.write(x);<br/>
+&lt;/script&gt;</p>, <p>&lt;script&gt;<br/>
+document.write(navigator.appCodeName);<br/>
+&lt;/script&gt;<br/>
+A. get code name of the browser of a visitor<br/>
+B. set code name of the browser of a visitor<br/>
+C. None of the above<br/>
+Ans: A</p>, <p>Scripting language are<br/>
+A. High Level Programming language<br/>
+B. Assembly Level programming language<br/>
+C. Machine level programming language<br/>
+Ans: A</p>, <p>Which best explains getSelection()?<br/>
+A. Returns the VALUE of a selected OPTION.<br/>
+B. Returns document.URL of the window in focus.<br/>
+C. Returns the value of cursor-selected text<br/>
+D. Returns the VALUE of a checked radio input.<br/>
+Ans: C</p>, <p>Choose the client-side JavaScript object:<br/>
+A. Database<br/>
+B. Cursor<br/>
+C. Client<br/>
+D. FileUpLoad<br/>
+Ans: D</p>, <p>What is mean by “this” keyword in javascript?<br/>
+A. It refers current object<br/>
+B. It referes previous object<br/>
+C. It is variable which contains value<br/>
+D. None of the above<br/>
+Ans: A</p>, <p>In JavaScript, Window.prompt() method return true or false value ?<br/>
+A. False<br/>
+B. True<br/>
+Ans: A</p>]
