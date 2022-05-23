@@ -28,8 +28,15 @@ rm_p_tags = qw.replace("<p>", "{")
 rm_p_close_tags = rm_p_tags.replace("</p>", "")
 rm_br_tags = rm_p_close_tags.replace(r"<br/>", "")
 rm_newlines = rm_br_tags.replace("\n", " \n")
-rm_fbracket = rm_newlines.replace("[", "")
-rm_bbracket = rm_fbracket.replace("]", "")
-pprint(rm_bbracket)
+a_choice = rm_newlines.replace("A.", "A:")
+b_choice = a_choice.replace("B.", "B:")
+c_choice = b_choice.replace("C.", "C:")
+d_choice = c_choice.replace("D.", "D:")
+pprint(d_choice)
+
+# rm_fbracket = rm_newlines.replace("[", "")
+# rm_bbracket = rm_fbracket.replace("]", "")
+
+
 
 
