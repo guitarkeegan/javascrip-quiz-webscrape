@@ -38,7 +38,9 @@ beg_quotes = rm_commas.replace(": ", ": '")
 q_object = beg_quotes.replace("{", "{question: '")
 sub_final = q_object.replace(" \n", "")
 final = sub_final.replace("}", "'}, ")
-
+print(final)
+with open("formatted_question.txt", "w") as fq:
+    fq.write(final)
 
 
 # rm_fbracket = rm_newlines.replace("[", "")
